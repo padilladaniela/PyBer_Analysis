@@ -13,13 +13,14 @@ From running the data we can tell the below key differences in it amount the dif
 
 * Suburban cities are right in the middle of all these numbers.
 
-{add image]
+![Summary](https://github.com/padilladaniela/PyBer_Analysis/blob/main/pyber_summary.png)
+
 
 * During the months of January through April in 2019, we can easily observe that urban city types had the highest total fares while rural had the lowest.
 
 * There does not look to be any similarties between city types, except on the last week of March where they all peaked.
 
-{add image}
+![Summary](https://github.com/padilladaniela/PyBer_Analysis/blob/main/Challenge_fare_summary.png)
 
 ## Summary
 From the results, we can recommend the below options to address the disparities amount the city types.
